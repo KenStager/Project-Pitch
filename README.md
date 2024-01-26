@@ -13,8 +13,8 @@
 
 ## Week 1: Foundations and Data Collection
 
-### Introduction to AI, NLP, and Tools
-- **Overview**: Introduction to basic concepts in AI and machine learning, focusing on natural language processing (NLP).
+### Implementation of AI, NLP, and Tools
+- **Overview**: Implement basic AI and machine learning concepts, focusing on natural language processing (NLP).
 - **Tools Setup**: Setting up the development environment, including Python, Jupyter Notebooks, and relevant libraries (TextBlob, NLTK, TensorFlow).
 
 ### Data Collection and Preprocessing
