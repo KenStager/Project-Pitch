@@ -1,6 +1,6 @@
 # Project-Pitch
 
-# Detailed Project Overview: Real-Time News Sentiment Tracker for Stock Market Prediction
+# Project Overview: Real-Time News Sentiment Tracker for Stock Market Prediction
 
 ---
 
@@ -74,7 +74,7 @@
 ---
 
 ## Conclusion
-This project offers a comprehensive introduction to AI applications in the financial sector, focusing on real-time data analysis and prediction. It's designed to be achievable within a two-week bootcamp while providing valuable insights into NLP, machine learning, and financial data analysis. The project is ideal for participants keen on exploring AI's role in financial markets and developing practical Python and AI tools skills.
+This project offers a comprehensive introduction to AI applications in the financial sector, focusing on real-time data analysis and prediction. It's designed to be achievable within a two-week project window, while providing valuable insights into NLP, machine learning, and financial data analysis. The project is ideal for participants keen on exploring AI's role in financial markets and developing practical Python and AI tools skills.
 
 ---
 
