@@ -299,5 +299,3 @@ if __name__ == "__main__":
 
 - **Output**: 
   - The final predictions are printed out. These could also be stored or used in further analysis or reporting.
-
-This expanded main execution section of the pseudocode provides a detailed, step-by-step guide on how the project's script will run, emphasizing robust error handling, efficient data processing, and logging for transparency and debugging purposes.
