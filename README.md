@@ -198,8 +198,8 @@ if __name__ == "__main__":
     # And other main execution logic
 ```
 
-#### Comments for the Team:
-- **Error Handling**: All major functions now include try-except blocks for robust error handling. Errors are logged and managed through a centralized `handle_error` function.
+#### Comments for the Group:
+- **Error Handling**: All major functions include try-except blocks for robust error handling. Errors are logged and managed through a centralized `handle_error` function.
 - **Logging**: The logging system is initialized at the start, which will help in tracking the flow and identifying issues during execution.
 - **Data Caching**: Functions for caching data (`cache_data`) and retrieving cached data (`retrieve_cached_data`) are included. This ensures efficiency, especially when dealing with large datasets or repeated operations.
 - **Modular Design**: The code is broken down into smaller, reusable modules like `make_api_request` and `parse_data`, enhancing code reusability and readability.
