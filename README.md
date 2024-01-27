@@ -207,9 +207,7 @@ if __name__ == "__main__":
 
 This finalized pseudocode should provide a comprehensive, robust, and modular framework for the project, addressing the core functionalities while ensuring error handling, logging, and efficient data management.
 
-### Expanded Main Execution in Finalized Pseudocode
-
-#### Pseudocode Overview:
+## Main Execution in Finalized Pseudocode:
 
 ```python
 # Main Execution
