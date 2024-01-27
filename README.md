@@ -1,4 +1,4 @@
-### Revised Project Overview: Real-Time News Sentiment Tracker for Stock Market Prediction
+# Revised Project Overview: Real-Time News Sentiment Tracker for Stock Market Prediction
 
 ---
 
